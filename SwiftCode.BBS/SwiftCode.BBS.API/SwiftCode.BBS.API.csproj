@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.16" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
@@ -28,6 +29,13 @@
     <ProjectReference Include="..\SwiftCode.BBS.Common\SwiftCode.BBS.Common.csproj" />
     <ProjectReference Include="..\SwiftCode.BBS.IRepositories\SwiftCode.BBS.IRepositories.csproj" />
     <ProjectReference Include="..\SwiftCode.BBS.IService\SwiftCode.BBS.IServices.csproj" />
+=======
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SwiftCode.BBS.Model\SwiftCode.BBS.Model.csproj" />
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
   </ItemGroup>
 
 </Project>

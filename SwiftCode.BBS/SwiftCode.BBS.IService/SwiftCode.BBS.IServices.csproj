@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.16" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
@@ -16,6 +17,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SwiftCode.BBS.Model\SwiftCode.BBS.Model.csproj" />
+=======
+    <ProjectReference Include="..\SwiftCode.BBS.IRepositories\SwiftCode.BBS.IRepositories.csproj" />
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
   </ItemGroup>
 
 </Project>

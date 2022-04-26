@@ -4,6 +4,7 @@
         <name>SwiftCode.BBS.API</name>
     </assembly>
     <members>
+<<<<<<< HEAD
         <member name="M:SwiftCode.BBS.API.Controllers.LoginController.GetJwtStr(System.String,System.String)">
             <summary>
             获取Jwt令牌
@@ -12,6 +13,8 @@
             <param name="pass"></param>
             <returns></returns>
         </member>
+=======
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
         <member name="T:SwiftCode.BBS.API.Controllers.WeatherForecastController">
             <summary>
             天气预报

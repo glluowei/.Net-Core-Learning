@@ -5,7 +5,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using SwiftCode.BBS.Model;
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Authorization;
+=======
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
 
 namespace SwiftCode.BBS.API.Controllers
 {
@@ -32,7 +35,10 @@ namespace SwiftCode.BBS.API.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
+<<<<<<< HEAD
         [Authorize(Policy = "SystemOrAdmin")]
+=======
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
         public IEnumerable<WeatherForecast> Get()
         {
             var rng = new Random();

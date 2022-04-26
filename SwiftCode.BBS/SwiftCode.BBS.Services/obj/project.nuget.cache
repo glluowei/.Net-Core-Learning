@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TpmORQxK8IIXDgPHhwoC6HmGhtd1mzI3RsTvcpRygnKz/vJRQhNOvGuKU4+yGnM/ejEKozy6XTEkf2Rtd81UfQ==",
   "success": true,
   "projectFilePath": "G:\\Repositories\\.Net-Core-Learning\\SwiftCode.BBS\\SwiftCode.BBS.Services\\SwiftCode.BBS.Services.csproj",
@@ -34,6 +35,18 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+=======
+  "dgSpecHash": "GNDAXySHBcGYdiacvyBdYo2mc6n0acSbk122aicDKf4N4yQQPqAPejVhRryLsAqxYXUqcikW1SDruRbu4+awag==",
+  "success": true,
+  "projectFilePath": "G:\\Repositories\\.Net-Core-Learning\\SwiftCode.BBS\\SwiftCode.BBS.Services\\SwiftCode.BBS.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\DELL.DESKTOP-KAFOMJ6\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
   ],
   "logs": []
 }

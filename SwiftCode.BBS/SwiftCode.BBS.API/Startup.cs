@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+=======
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -6,14 +9,21 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+<<<<<<< HEAD
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
+=======
+using Microsoft.OpenApi.Models;
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+<<<<<<< HEAD
 using System.Text;
+=======
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
 using System.Threading.Tasks;
 
 namespace SwiftCode.BBS.API
@@ -53,6 +63,7 @@ namespace SwiftCode.BBS.API
 
                 var xmlModelPath = Path.Combine(basePath, "SwiftCode.BBS.Model.xml"); //Model层的xml文件名
                 c.IncludeXmlComments(xmlModelPath);
+<<<<<<< HEAD
 
                 // 开启小锁
                 c.OperationFilter<AddResponseHeadersFilter>();
@@ -115,6 +126,10 @@ namespace SwiftCode.BBS.API
                 options.AddPolicy("SystemOrAdmin", policy => policy.RequireRole("Admin", "System"));//或的关系
                 options.AddPolicy("SystemAndAdmin", policy => policy.RequireRole("Admin").RequireRole("System"));//且的关系
             });
+=======
+            });
+            #endregion
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -130,9 +145,13 @@ namespace SwiftCode.BBS.API
             }
 
             app.UseRouting();
+<<<<<<< HEAD
             // 先开启认证
             app.UseAuthentication();
             // 然后是授权中间件
+=======
+
+>>>>>>> 7fdb0c8c89466031244ac1949b4ec0895781f6c8
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
