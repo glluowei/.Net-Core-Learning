@@ -1,0 +1,12 @@
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\bin\Debug\net5.0\SwiftCode.BBS.Model.deps.json
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\bin\Debug\net5.0\SwiftCode.BBS.Model.dll
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\bin\Debug\net5.0\ref\SwiftCode.BBS.Model.dll
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\bin\Debug\net5.0\SwiftCode.BBS.Model.pdb
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\SwiftCode.BBS.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\SwiftCode.BBS.Model.AssemblyInfoInputs.cache
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\SwiftCode.BBS.Model.AssemblyInfo.cs
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\SwiftCode.BBS.Model.csproj.CoreCompileInputs.cache
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\SwiftCode.BBS.Model.dll
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\ref\SwiftCode.BBS.Model.dll
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\obj\Debug\net5.0\SwiftCode.BBS.Model.pdb
+G:\Repositories\.Net-Core-Learning\SwiftCode.BBS\SwiftCode.BBS.Model\bin\Debug\net5.0\SwiftCode.BBS.Model.xml
